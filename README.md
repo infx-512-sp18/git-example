@@ -1,5 +1,6 @@
 # git-example
-Example GIT repository
+
+Example GIT repository.
 
 ## Nick DeNardis
 
