@@ -1,0 +1,29 @@
+/* Header styles */
+header {
+    background-color: red;
+    border-bottom: 2px solid #0e6ab6;
+}
+header .logo {
+    width: 150px;
+}
+
+main {
+    background-color: blue;
+}
+
+#navigation ul {
+    margin: 0px;
+}
+#navigation a {
+    color: #ffffff;
+}
+#navigation a:hover {
+    color: red;
+} 
+
+footer {
+    background-color: darkgreen;
+}
+footer p {
+    margin: 0px;
+}
